@@ -11,7 +11,7 @@ install
 - pip install torchvision
 
 ngrok
-download : https://ngrok.com/download
+(download : https://ngrok.com/download )
 - ngrok http -region jp 8000
 
 .env (file)
