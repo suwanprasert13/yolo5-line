@@ -1,1 +1,1 @@
-app: 
+app: line-yolo-api
